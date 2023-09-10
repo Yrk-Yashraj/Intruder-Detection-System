@@ -1,5 +1,4 @@
 # Arduino Based Intruder Detection System with real time positioning on a display for improving home security
-# Intruder Detection System with Arduino
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -53,6 +52,7 @@ By combining these features, our Arduino-based Intruder Detection System offers 
 To set up the Intruder Detection System, follow these steps:
 
 1. **Clone the Repository**:
+gh repo clone Yrk-Yashraj/Intruder-Detection-System
 
 2. **Upload Arduino Code**:
 - Open the Arduino IDE and load the provided Arduino code from the repository.
